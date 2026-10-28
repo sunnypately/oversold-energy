@@ -1,0 +1,492 @@
+[
+ {
+  "symbol": "SMR",
+  "name": "NuScale Power",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.8735,
+  "reason": "Revenue \u221299% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "OKLO",
+  "name": "Oklo",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.819,
+  "reason": "Pre-revenue \u2014 no meaningful sales to measure growth"
+ },
+ {
+  "symbol": "FLNC",
+  "name": "Fluence Energy",
+  "segment": "Storage & hydrogen",
+  "off_high": -0.8189,
+  "reason": "Revenue +8% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "NNE",
+  "name": "Nano Nuclear Energy",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.7507,
+  "reason": "Pre-revenue \u2014 no meaningful sales to measure growth"
+ },
+ {
+  "symbol": "LEU",
+  "name": "Centrus Energy",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.7258,
+  "reason": "Revenue \u22127% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "FCEL",
+  "name": "FuelCell Energy",
+  "segment": "Storage & hydrogen",
+  "off_high": -0.6782,
+  "reason": "Revenue \u221229% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "PLUG",
+  "name": "Plug Power",
+  "segment": "Storage & hydrogen",
+  "off_high": -0.6744,
+  "reason": "Revenue +2% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "ENPH",
+  "name": "Enphase Energy",
+  "segment": "Solar",
+  "off_high": -0.6564,
+  "reason": "Revenue \u221229% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "UEC",
+  "name": "Uranium Energy",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.6047,
+  "reason": "Pre-revenue \u2014 no meaningful sales to measure growth"
+ },
+ {
+  "symbol": "SEDG",
+  "name": "SolarEdge",
+  "segment": "Solar",
+  "off_high": -0.6042,
+  "reason": "Revenue +20% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "NXT",
+  "name": "Nextpower",
+  "segment": "Solar",
+  "off_high": -0.5096,
+  "reason": "Revenue +8% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "POWL",
+  "name": "Powell Industries",
+  "segment": "Grid & electrical",
+  "off_high": -0.5078,
+  "reason": "Revenue +9% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "NRG",
+  "name": "NRG Energy",
+  "segment": "Power producers",
+  "off_high": -0.4913,
+  "reason": "Revenue +11% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "CRK",
+  "name": "Comstock Resources",
+  "segment": "Oil & gas",
+  "off_high": -0.4669,
+  "reason": "Revenue \u221225% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "FSLR",
+  "name": "First Solar",
+  "segment": "Solar",
+  "off_high": -0.4504,
+  "reason": "Revenue \u22124% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "BWXT",
+  "name": "BWX Technologies",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.4427,
+  "reason": "Revenue +18% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "BTU",
+  "name": "Peabody Energy",
+  "segment": "Oil & gas",
+  "off_high": -0.4332,
+  "reason": "Revenue +13% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "CCJ",
+  "name": "Cameco",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.3881,
+  "reason": "Revenue \u22127% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "ORA",
+  "name": "Ormat Technologies",
+  "segment": "Utilities",
+  "off_high": -0.3745,
+  "reason": "Revenue +11% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "NXE",
+  "name": "NexGen Energy",
+  "segment": "Nuclear & uranium",
+  "off_high": -0.3668,
+  "reason": "Pre-revenue \u2014 no meaningful sales to measure growth"
+ },
+ {
+  "symbol": "GNRC",
+  "name": "Generac",
+  "segment": "Grid & electrical",
+  "off_high": -0.3293,
+  "reason": "Revenue +11% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "PCG",
+  "name": "PG&E",
+  "segment": "Utilities",
+  "off_high": -0.3236,
+  "reason": "Revenue \u22121% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "EIX",
+  "name": "Edison International",
+  "segment": "Utilities",
+  "off_high": -0.2894,
+  "reason": "Revenue \u22124% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "VST",
+  "name": "Vistra",
+  "segment": "Power producers",
+  "off_high": -0.278,
+  "reason": "Revenue \u22125% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "EXE",
+  "name": "Expand Energy",
+  "segment": "Oil & gas",
+  "off_high": -0.2528,
+  "reason": "Revenue \u221220% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "GPOR",
+  "name": "Gulfport Energy",
+  "segment": "Oil & gas",
+  "off_high": -0.2515,
+  "reason": "Revenue \u221216% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "AROC",
+  "name": "Archrock",
+  "segment": "Oil & gas",
+  "off_high": -0.2503,
+  "reason": "Revenue \u22123% y/y, below the 20% growth bar"
+ },
+ {
+  "symbol": "ARRY",
+  "name": "Array Technologies",
+  "segment": "Solar",
+  "off_high": -0.722,
+  "reason": "Market cap under $0.5B"
+ },
+ {
+  "symbol": "TPL",
+  "name": "Texas Pacific Land",
+  "segment": "Oil & gas",
+  "off_high": -0.3961,
+  "reason": "No forward earnings, no analyst coverage \u2014 nothing to value it on"
+ },
+ {
+  "symbol": "BEPC",
+  "name": "Brookfield Renewable Corp.",
+  "segment": "Utilities",
+  "off_high": -0.3355,
+  "reason": "No forward earnings, no analyst coverage \u2014 nothing to value it on"
+ },
+ {
+  "symbol": "BIPC",
+  "name": "Brookfield Infrastructure Corp.",
+  "segment": "Utilities",
+  "off_high": -0.2845,
+  "reason": "No forward earnings, no analyst coverage \u2014 nothing to value it on"
+ },
+ {
+  "symbol": "GEV",
+  "name": "GE Vernova",
+  "segment": "Grid & electrical",
+  "off_high": -0.2444,
+  "reason": "Only 24% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "TLN",
+  "name": "Talen Energy",
+  "segment": "Power producers",
+  "off_high": -0.2331,
+  "reason": "Only 23% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "HUBB",
+  "name": "Hubbell",
+  "segment": "Grid & electrical",
+  "off_high": -0.2305,
+  "reason": "Only 23% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "CWEN",
+  "name": "Clearway Energy",
+  "segment": "Utilities",
+  "off_high": -0.2151,
+  "reason": "Only 22% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "WFRD",
+  "name": "Weatherford",
+  "segment": "Oil & gas",
+  "off_high": -0.2078,
+  "reason": "Only 21% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "ETN",
+  "name": "Eaton",
+  "segment": "Grid & electrical",
+  "off_high": -0.1921,
+  "reason": "Only 19% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "HAL",
+  "name": "Halliburton",
+  "segment": "Oil & gas",
+  "off_high": -0.1828,
+  "reason": "Only 18% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "EQT",
+  "name": "EQT",
+  "segment": "Oil & gas",
+  "off_high": -0.1775,
+  "reason": "Only 18% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "NE",
+  "name": "Noble Corp.",
+  "segment": "Oil & gas",
+  "off_high": -0.169,
+  "reason": "Only 17% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "BKR",
+  "name": "Baker Hughes",
+  "segment": "Oil & gas",
+  "off_high": -0.1676,
+  "reason": "Only 17% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "NEE",
+  "name": "NextEra Energy",
+  "segment": "Utilities",
+  "off_high": -0.1666,
+  "reason": "Only 17% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "VLO",
+  "name": "Valero",
+  "segment": "Oil & gas",
+  "off_high": -0.158,
+  "reason": "Only 16% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "RIG",
+  "name": "Transocean",
+  "segment": "Oil & gas",
+  "off_high": -0.1554,
+  "reason": "Only 16% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "AES",
+  "name": "AES Corp.",
+  "segment": "Utilities",
+  "off_high": -0.1479,
+  "reason": "Only 15% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "VAL",
+  "name": "Valaris",
+  "segment": "Oil & gas",
+  "off_high": -0.1423,
+  "reason": "Only 14% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "MPC",
+  "name": "Marathon Petroleum",
+  "segment": "Oil & gas",
+  "off_high": -0.1203,
+  "reason": "Only 12% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "MTDR",
+  "name": "Matador Resources",
+  "segment": "Oil & gas",
+  "off_high": -0.1203,
+  "reason": "Only 12% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "D",
+  "name": "Dominion Energy",
+  "segment": "Utilities",
+  "off_high": -0.1077,
+  "reason": "Only 11% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "SLB",
+  "name": "SLB",
+  "segment": "Oil & gas",
+  "off_high": -0.1065,
+  "reason": "Only 11% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "PSX",
+  "name": "Phillips 66",
+  "segment": "Oil & gas",
+  "off_high": -0.103,
+  "reason": "Only 10% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "AR",
+  "name": "Antero Resources",
+  "segment": "Oil & gas",
+  "off_high": -0.0846,
+  "reason": "Only 8% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "WMB",
+  "name": "Williams Cos.",
+  "segment": "Oil & gas",
+  "off_high": -0.0792,
+  "reason": "Only 8% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "XEL",
+  "name": "Xcel Energy",
+  "segment": "Utilities",
+  "off_high": -0.0746,
+  "reason": "Only 7% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "SO",
+  "name": "Southern Co.",
+  "segment": "Utilities",
+  "off_high": -0.0736,
+  "reason": "Only 7% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "DUK",
+  "name": "Duke Energy",
+  "segment": "Utilities",
+  "off_high": -0.073,
+  "reason": "Only 7% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "OXY",
+  "name": "Occidental Petroleum",
+  "segment": "Oil & gas",
+  "off_high": -0.0691,
+  "reason": "Only 7% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "FANG",
+  "name": "Diamondback Energy",
+  "segment": "Oil & gas",
+  "off_high": -0.0559,
+  "reason": "Only 6% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "CHRD",
+  "name": "Chord Energy",
+  "segment": "Oil & gas",
+  "off_high": -0.0411,
+  "reason": "Only 4% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "OKE",
+  "name": "ONEOK",
+  "segment": "Oil & gas",
+  "off_high": -0.039,
+  "reason": "Only 4% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "APA",
+  "name": "APA Corp.",
+  "segment": "Oil & gas",
+  "off_high": -0.0378,
+  "reason": "Only 4% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "COP",
+  "name": "ConocoPhillips",
+  "segment": "Oil & gas",
+  "off_high": -0.0344,
+  "reason": "Only 3% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "DVN",
+  "name": "Devon Energy",
+  "segment": "Oil & gas",
+  "off_high": -0.0307,
+  "reason": "Only 3% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "KMI",
+  "name": "Kinder Morgan",
+  "segment": "Oil & gas",
+  "off_high": -0.0292,
+  "reason": "Only 3% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "XOM",
+  "name": "ExxonMobil",
+  "segment": "Oil & gas",
+  "off_high": -0.0285,
+  "reason": "Only 3% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "CVX",
+  "name": "Chevron",
+  "segment": "Oil & gas",
+  "off_high": -0.026,
+  "reason": "Only 3% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "EOG",
+  "name": "EOG Resources",
+  "segment": "Oil & gas",
+  "off_high": -0.0258,
+  "reason": "Only 3% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "PR",
+  "name": "Permian Resources",
+  "segment": "Oil & gas",
+  "off_high": -0.0216,
+  "reason": "Only 2% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "LNG",
+  "name": "Cheniere Energy",
+  "segment": "Oil & gas",
+  "off_high": -0.0156,
+  "reason": "Only 2% below its 52-week high (needs 25%)"
+ },
+ {
+  "symbol": "RRC",
+  "name": "Range Resources",
+  "segment": "Oil & gas",
+  "off_high": 0.0067,
+  "reason": "Only 1% below its 52-week high (needs 25%)"
+ }
+]
